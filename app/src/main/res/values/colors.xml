@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--联系人页面  选择框默认背景色-->
+    <color name="bg_list_unselect">#dddddd</color>
+    <!--联系人页面  选择框选中背景色-->
+    <color name="bg_list_select">#FF4081</color>
+
+    <color name="de_title_bg">#0195ff</color>
+    <color name="group_list_gray">#999999</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#333333</color>
+</resources>
